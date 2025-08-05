@@ -6,7 +6,7 @@ Repositorio del trabajo práctico grupal de análisis de datos. Incluye selecci�
 
 ## Descripción del propósito del dataset:
 
-Se seleccionó el dataset "Teen Smartphone Usage and Addiction Impact Dataset" debido a la creciente relevancia del uso de smartphones en la vida cotidiana, especialmente entre los adolescentes. En la actualidad, los dispositivos móviles no solo son una herramienta de comunicación, sino también una fuente de entretenimiento, socialización, educación e incluso dependencia emocional.
+Se seleccionó el dataset [Teen Smartphone Usage and Addiction Impact Dataset](https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction/data) debido a la creciente relevancia del uso de smartphones en la vida cotidiana, especialmente entre los adolescentes. En la actualidad, los dispositivos móviles no solo son una herramienta de comunicación, sino también una fuente de entretenimiento, socialización, educación e incluso dependencia emocional.
 
 Este dataset permite abordar un problema contemporáneo de alto impacto social: la adicción al teléfono móvil en jóvenes. A través del análisis de variables como el tiempo de uso, las actividades más frecuentes, los hábitos relacionados con el sueño y el comportamiento en redes sociales, es posible obtener insights significativos sobre los patrones de uso y su posible relación con factores psicológicos y conductuales.
 
