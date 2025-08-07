@@ -41,6 +41,12 @@ Para asegurar la calidad y consistencia del dataset seleccionado, se llevaron a 
 ---
 ## Visualizaciones Clave del Dataset
 
+### Promedio de horas diarias por actividad
+
+Este gráfico muestra el promedio diario de horas dedicadas a actividades clave como uso del celular, sueño, ejercicio, redes sociales y juegos. Visualizar estos promedios ayuda a identificar cómo distribuyen su tiempo los estudiantes y detectar posibles hábitos que afecten su rendimiento académico y bienestar. Así, facilita entender qué áreas podrían mejorarse para lograr un equilibrio saludable.
+
+![Promedio de horas diarias por actividad](figures/promedio_horas_actividad.png)
+
 ### Ejercicio vs Nivel de Ansiedad
 
 Este gráfico analiza la relación entre las horas de ejercicio físico realizadas diariamente por los adolescentes y su nivel de ansiedad. Se evidencia una tendencia general en la que quienes hacen más ejercicio tienden a reportar niveles de ansiedad más bajos. Esto sugiere que la actividad física puede tener un efecto positivo sobre la salud mental, actuando como un posible factor protector frente a la ansiedad.
@@ -56,11 +62,13 @@ Esto sugiere que el uso excesivo del teléfono puede interferir con las activida
 
 ![Relación entre horas de uso diario y desempeño académico](figures/relacion_horas_uso_diario_y_desempeño_academico.png)
 
-### Relación entre ansiedad y nivel de adicción al smartphone
+### Impacto del uso diario del celular (≥11h vs <10h) en el rendimiento académico
 
-Este gráfico muestra cómo se relacionan los niveles de ansiedad con el grado de adicción al teléfono móvil en adolescentes. Se observa una correlación positiva: a mayor nivel de ansiedad, también tiende a aumentar el nivel de adicción. Esto sugiere que el uso excesivo del smartphone puede ser una forma de escape emocional o que la ansiedad impulsa un uso más compulsivo del dispositivo, generando un ciclo difícil de romper.
+Este análisis compara el rendimiento académico promedio de dos grupos de estudiantes: aquellos que utilizan el celular 11 horas o más al día y aquellos que lo usan menos de 10 horas. El objetivo es observar si un mayor tiempo de uso del dispositivo está asociado con un descenso en el desempeño escolar. La visualización permite identificar posibles diferencias significativas entre ambos grupos y reflexionar sobre el impacto del uso excesivo del celular en la concentración, el tiempo de estudio y, en general, el rendimiento académico.
 
-![Ansiedad vs Nivel de Adicción](figures/ansiedad_vs_nivel_adiccion.png)
+![Impacto del uso diario del celular (≥11h vs <10h) en el rendimiento académico](figures/promedios_estudiantes_uso_celular_menor10horas.png)
+
+![Impacto del uso diario del celular (≥11h vs <10h) en el rendimiento académico](figures/promedios_estudiantes_uso_celular_mayor_11horas.png)
 
 ---
 
